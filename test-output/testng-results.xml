@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="53264" started-at="2017-02-16T05:15:36Z" finished-at="2017-02-16T05:16:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="53264" started-at="2017-02-16T05:15:36Z" finished-at="2017-02-16T05:16:29Z">
+      <class name="medinfi_test.Testit">
+        <test-method status="PASS" signature="count_display()[pri:0, instance:medinfi_test.Testit@59fa1d9b]" name="count_display" duration-ms="53247" started-at="2017-02-16T10:45:36Z" finished-at="2017-02-16T10:46:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- count_display -->
+      </class> <!-- medinfi_test.Testit -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
